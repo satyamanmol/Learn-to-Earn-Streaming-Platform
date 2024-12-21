@@ -7,6 +7,8 @@ The **Learn-to-Earn Streaming Platform** is a decentralized platform where users
 ## Contract Address
 
 0x4299b6C4332E569DA12De6D0E79D3F84E97461C1
+![image](https://github.com/user-attachments/assets/29065530-03c7-4982-808c-de09131c6c08)
+
 ## Project Vision
 
 The vision of the **Learn-to-Earn Streaming Platform** is to create an ecosystem that incentivizes learning through token-based rewards. The platform envisions:
